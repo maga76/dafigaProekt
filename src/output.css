@@ -412,6 +412,12 @@
   .w-\[1000px\] {
     width: 1000px;
   }
+  .w-\[1300px\] {
+    width: 1300px;
+  }
+  .w-\[1400px\] {
+    width: 1400px;
+  }
   .w-\[1800\] {
     width: 1800;
   }
@@ -841,6 +847,11 @@
   .lg\:w-\[900px\] {
     @media (width >= 64rem) {
       width: 900px;
+    }
+  }
+  .lg\:w-\[1300px\] {
+    @media (width >= 64rem) {
+      width: 1300px;
     }
   }
   .lg\:flex-row {
