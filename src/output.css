@@ -175,6 +175,12 @@
   .mt-\[6px\] {
     margin-top: 6px;
   }
+  .mt-\[7px\] {
+    margin-top: 7px;
+  }
+  .mt-\[7tpx\] {
+    margin-top: 7tpx;
+  }
   .mt-\[10px\] {
     margin-top: 10px;
   }
@@ -210,6 +216,12 @@
   }
   .mt-\[200px\] {
     margin-top: 200px;
+  }
+  .mt-\[px\] {
+    margin-top: px;
+  }
+  .mt-\[tpx\] {
+    margin-top: tpx;
   }
   .ml-\[-0px\] {
     margin-left: -0px;
